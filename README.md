@@ -17,6 +17,7 @@ to the server:
 | Project | What it shows |
 |---|---|
 | [bench-automation](https://github.com/steitec/bench-automation) | End-of-line test station for an embedded PC, with simulated SCPI instruments, fault injection and HTML reports |
+| [kiosk-kit](https://github.com/steitec/kiosk-kit) | Unattended touch kiosk for Debian/GNOME: touch-wake display service, update-proof Chromium, Wayland touch calibration |
 | [vaultwarden-for-android](https://github.com/steitec/vaultwarden-for-android) | Firefox for Android add-on for self-hosted Vaultwarden, signed by Mozilla |
 
 **Stack:** Python · PyVISA · pyserial · pytest · Linux · systemd · Docker ·
