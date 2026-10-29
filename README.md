@@ -1,3 +1,8 @@
+<a href="https://steitec.net"><picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/steitec/.github/main/brand/steitec-logo-on-dark.svg">
+  <img height="40" alt="steitec" src="https://raw.githubusercontent.com/steitec/.github/main/brand/steitec-logo-on-light.svg">
+</picture></a>
+
 ### Hi, I'm Ralf — test & automation engineer 👋
 
 I spent years repairing embedded PCs and writing the test software that
