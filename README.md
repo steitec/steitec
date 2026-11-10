@@ -5,7 +5,7 @@
 
 ### Hi, I'm Ralf — test & automation engineer 👋
 
-I spent years repairing embedded PCs and writing the test software that
+I spent 15 years repairing embedded PCs and writing the test software that
 checked them. Today I build the things around that work, from the test bench
 to the server:
 
@@ -37,4 +37,5 @@ to the server:
 **Stack:** Python · PyVISA · pyserial · pytest · HART-IP · Linux · systemd · Docker ·
 FastAPI · React · TypeScript
 
-📫 Available for freelance work — remote, fixed-price where possible.
+📫 Available for freelance work — remote, fixed-price where possible:
+[steitec.net](https://steitec.net) · [hello@steitec.net](mailto:hello@steitec.net)
